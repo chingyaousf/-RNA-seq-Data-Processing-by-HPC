@@ -1,0 +1,105 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+	  v1.6.0
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 4 BAM files                                      ||
+||                           P vehicle_rep1.bam                               ||
+||                           P vehicle_rep2.bam                               ||
+||                           P drug_rep1.bam                                  ||
+||                           P drug_rep2.bam                                  ||
+||                                                                            ||
+||             Output file : vehicle_drug_feature_counts_exons.txt            ||
+||                 Summary : vehicle_drug_feature_counts_exons.txt.summary    ||
+||              Annotation : ../Reference_Data/PlasmoDB-41_Pfalciparum3D7 ... ||
+||      Dir for temp files : ./                                               ||
+||                                                                            ||
+||                 Threads : 1                                                ||
+||                   Level : meta-feature level                               ||
+||              Paired-end : yes                                              ||
+||         Strand specific : no                                               ||
+||      Multimapping reads : not counted                                      ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+||          Chimeric reads : counted                                          ||
+||        Both ends mapped : not required                                     ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file ../Reference_Data/PlasmoDB-41_Pfalciparum3D7.gff ...  ||
+||    Features : 14495                                                        ||
+||    Meta-features : 5872                                                    ||
+||    Chromosomes/contigs : 16                                                ||
+||                                                                            ||
+|| Process BAM file vehicle_rep1.bam...                                       ||
+||    Paired-end reads are included.                                          ||
+||    Assign fragments (read pairs) to features...                            ||
+||                                                                            ||
+||    WARNING: reads from the same pair were found not adjacent to each       ||
+||             other in the input (due to read sorting by location or         ||
+||             reporting of multi-mapping read pairs).                        ||
+||                                                                            ||
+||    Read re-ordering is performed.                                          ||
+||                                                                            ||
+||    Total fragments : 1193979                                               ||
+||    Successfully assigned fragments : 1088087 (91.1%)                       ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+|| Process BAM file vehicle_rep2.bam...                                       ||
+||    Paired-end reads are included.                                          ||
+||    Assign fragments (read pairs) to features...                            ||
+||                                                                            ||
+||    WARNING: reads from the same pair were found not adjacent to each       ||
+||             other in the input (due to read sorting by location or         ||
+||             reporting of multi-mapping read pairs).                        ||
+||                                                                            ||
+||    Read re-ordering is performed.                                          ||
+||                                                                            ||
+||    Total fragments : 1240027                                               ||
+||    Successfully assigned fragments : 1137951 (91.8%)                       ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+|| Process BAM file drug_rep1.bam...                                          ||
+||    Paired-end reads are included.                                          ||
+||    Assign fragments (read pairs) to features...                            ||
+||                                                                            ||
+||    WARNING: reads from the same pair were found not adjacent to each       ||
+||             other in the input (due to read sorting by location or         ||
+||             reporting of multi-mapping read pairs).                        ||
+||                                                                            ||
+||    Read re-ordering is performed.                                          ||
+||                                                                            ||
+||    Total fragments : 1070329                                               ||
+||    Successfully assigned fragments : 955223 (89.2%)                        ||
+||    Running time : 0.07 minutes                                             ||
+||                                                                            ||
+|| Process BAM file drug_rep2.bam...                                          ||
+||    Paired-end reads are included.                                          ||
+||    Assign fragments (read pairs) to features...                            ||
+||                                                                            ||
+||    WARNING: reads from the same pair were found not adjacent to each       ||
+||             other in the input (due to read sorting by location or         ||
+||             reporting of multi-mapping read pairs).                        ||
+||                                                                            ||
+||    Read re-ordering is performed.                                          ||
+||                                                                            ||
+||    Total fragments : 1255211                                               ||
+||    Successfully assigned fragments : 1115879 (88.9%)                       ||
+||    Running time : 0.08 minutes                                             ||
+||                                                                            ||
+||                         Read assignment finished.                          ||
+||                                                                            ||
+|| Summary of counting results can be found in file "vehicle_drug_feature_co  ||
+|| unts_exons.txt.summary"                                                    ||
+||                                                                            ||
+\\===================== http://subread.sourceforge.net/ ======================//
+

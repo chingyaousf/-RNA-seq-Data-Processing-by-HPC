@@ -1,0 +1,176 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of drug_rep1_R1.fastq.gz
+Approx 5% complete for drug_rep1_R1.fastq.gz
+Approx 10% complete for drug_rep1_R1.fastq.gz
+Approx 15% complete for drug_rep1_R1.fastq.gz
+Approx 20% complete for drug_rep1_R1.fastq.gz
+Approx 25% complete for drug_rep1_R1.fastq.gz
+Approx 30% complete for drug_rep1_R1.fastq.gz
+Approx 35% complete for drug_rep1_R1.fastq.gz
+Approx 40% complete for drug_rep1_R1.fastq.gz
+Approx 45% complete for drug_rep1_R1.fastq.gz
+Approx 50% complete for drug_rep1_R1.fastq.gz
+Approx 55% complete for drug_rep1_R1.fastq.gz
+Approx 60% complete for drug_rep1_R1.fastq.gz
+Approx 65% complete for drug_rep1_R1.fastq.gz
+Approx 70% complete for drug_rep1_R1.fastq.gz
+Approx 75% complete for drug_rep1_R1.fastq.gz
+Approx 80% complete for drug_rep1_R1.fastq.gz
+Approx 85% complete for drug_rep1_R1.fastq.gz
+Approx 90% complete for drug_rep1_R1.fastq.gz
+Approx 95% complete for drug_rep1_R1.fastq.gz
+Analysis complete for drug_rep1_R1.fastq.gz
+Fontconfig warning: ignoring C.UTF-8: not a valid language tag
+Started analysis of drug_rep1_R2.fastq.gz
+Approx 5% complete for drug_rep1_R2.fastq.gz
+Approx 10% complete for drug_rep1_R2.fastq.gz
+Approx 15% complete for drug_rep1_R2.fastq.gz
+Approx 20% complete for drug_rep1_R2.fastq.gz
+Approx 25% complete for drug_rep1_R2.fastq.gz
+Approx 30% complete for drug_rep1_R2.fastq.gz
+Approx 35% complete for drug_rep1_R2.fastq.gz
+Approx 40% complete for drug_rep1_R2.fastq.gz
+Approx 45% complete for drug_rep1_R2.fastq.gz
+Approx 50% complete for drug_rep1_R2.fastq.gz
+Approx 55% complete for drug_rep1_R2.fastq.gz
+Approx 60% complete for drug_rep1_R2.fastq.gz
+Approx 65% complete for drug_rep1_R2.fastq.gz
+Approx 70% complete for drug_rep1_R2.fastq.gz
+Approx 75% complete for drug_rep1_R2.fastq.gz
+Approx 80% complete for drug_rep1_R2.fastq.gz
+Approx 85% complete for drug_rep1_R2.fastq.gz
+Approx 90% complete for drug_rep1_R2.fastq.gz
+Approx 95% complete for drug_rep1_R2.fastq.gz
+Analysis complete for drug_rep1_R2.fastq.gz
+Started analysis of drug_rep2_R1.fastq.gz
+Approx 5% complete for drug_rep2_R1.fastq.gz
+Approx 10% complete for drug_rep2_R1.fastq.gz
+Approx 15% complete for drug_rep2_R1.fastq.gz
+Approx 20% complete for drug_rep2_R1.fastq.gz
+Approx 25% complete for drug_rep2_R1.fastq.gz
+Approx 30% complete for drug_rep2_R1.fastq.gz
+Approx 35% complete for drug_rep2_R1.fastq.gz
+Approx 40% complete for drug_rep2_R1.fastq.gz
+Approx 45% complete for drug_rep2_R1.fastq.gz
+Approx 50% complete for drug_rep2_R1.fastq.gz
+Approx 55% complete for drug_rep2_R1.fastq.gz
+Approx 60% complete for drug_rep2_R1.fastq.gz
+Approx 65% complete for drug_rep2_R1.fastq.gz
+Approx 70% complete for drug_rep2_R1.fastq.gz
+Approx 75% complete for drug_rep2_R1.fastq.gz
+Approx 80% complete for drug_rep2_R1.fastq.gz
+Approx 85% complete for drug_rep2_R1.fastq.gz
+Approx 90% complete for drug_rep2_R1.fastq.gz
+Approx 95% complete for drug_rep2_R1.fastq.gz
+Analysis complete for drug_rep2_R1.fastq.gz
+Started analysis of drug_rep2_R2.fastq.gz
+Approx 5% complete for drug_rep2_R2.fastq.gz
+Approx 10% complete for drug_rep2_R2.fastq.gz
+Approx 15% complete for drug_rep2_R2.fastq.gz
+Approx 20% complete for drug_rep2_R2.fastq.gz
+Approx 25% complete for drug_rep2_R2.fastq.gz
+Approx 30% complete for drug_rep2_R2.fastq.gz
+Approx 35% complete for drug_rep2_R2.fastq.gz
+Approx 40% complete for drug_rep2_R2.fastq.gz
+Approx 45% complete for drug_rep2_R2.fastq.gz
+Approx 50% complete for drug_rep2_R2.fastq.gz
+Approx 55% complete for drug_rep2_R2.fastq.gz
+Approx 60% complete for drug_rep2_R2.fastq.gz
+Approx 65% complete for drug_rep2_R2.fastq.gz
+Approx 70% complete for drug_rep2_R2.fastq.gz
+Approx 75% complete for drug_rep2_R2.fastq.gz
+Approx 80% complete for drug_rep2_R2.fastq.gz
+Approx 85% complete for drug_rep2_R2.fastq.gz
+Approx 90% complete for drug_rep2_R2.fastq.gz
+Approx 95% complete for drug_rep2_R2.fastq.gz
+Analysis complete for drug_rep2_R2.fastq.gz
+Started analysis of vehicle_rep1_R1.fastq.gz
+Approx 5% complete for vehicle_rep1_R1.fastq.gz
+Approx 10% complete for vehicle_rep1_R1.fastq.gz
+Approx 15% complete for vehicle_rep1_R1.fastq.gz
+Approx 20% complete for vehicle_rep1_R1.fastq.gz
+Approx 25% complete for vehicle_rep1_R1.fastq.gz
+Approx 30% complete for vehicle_rep1_R1.fastq.gz
+Approx 35% complete for vehicle_rep1_R1.fastq.gz
+Approx 40% complete for vehicle_rep1_R1.fastq.gz
+Approx 45% complete for vehicle_rep1_R1.fastq.gz
+Approx 50% complete for vehicle_rep1_R1.fastq.gz
+Approx 55% complete for vehicle_rep1_R1.fastq.gz
+Approx 60% complete for vehicle_rep1_R1.fastq.gz
+Approx 65% complete for vehicle_rep1_R1.fastq.gz
+Approx 70% complete for vehicle_rep1_R1.fastq.gz
+Approx 75% complete for vehicle_rep1_R1.fastq.gz
+Approx 80% complete for vehicle_rep1_R1.fastq.gz
+Approx 85% complete for vehicle_rep1_R1.fastq.gz
+Approx 90% complete for vehicle_rep1_R1.fastq.gz
+Approx 95% complete for vehicle_rep1_R1.fastq.gz
+Analysis complete for vehicle_rep1_R1.fastq.gz
+Started analysis of vehicle_rep1_R2.fastq.gz
+Approx 5% complete for vehicle_rep1_R2.fastq.gz
+Approx 10% complete for vehicle_rep1_R2.fastq.gz
+Approx 15% complete for vehicle_rep1_R2.fastq.gz
+Approx 20% complete for vehicle_rep1_R2.fastq.gz
+Approx 25% complete for vehicle_rep1_R2.fastq.gz
+Approx 30% complete for vehicle_rep1_R2.fastq.gz
+Approx 35% complete for vehicle_rep1_R2.fastq.gz
+Approx 40% complete for vehicle_rep1_R2.fastq.gz
+Approx 45% complete for vehicle_rep1_R2.fastq.gz
+Approx 50% complete for vehicle_rep1_R2.fastq.gz
+Approx 55% complete for vehicle_rep1_R2.fastq.gz
+Approx 60% complete for vehicle_rep1_R2.fastq.gz
+Approx 65% complete for vehicle_rep1_R2.fastq.gz
+Approx 70% complete for vehicle_rep1_R2.fastq.gz
+Approx 75% complete for vehicle_rep1_R2.fastq.gz
+Approx 80% complete for vehicle_rep1_R2.fastq.gz
+Approx 85% complete for vehicle_rep1_R2.fastq.gz
+Approx 90% complete for vehicle_rep1_R2.fastq.gz
+Approx 95% complete for vehicle_rep1_R2.fastq.gz
+Analysis complete for vehicle_rep1_R2.fastq.gz
+Started analysis of vehicle_rep2_R1.fastq.gz
+Approx 5% complete for vehicle_rep2_R1.fastq.gz
+Approx 10% complete for vehicle_rep2_R1.fastq.gz
+Approx 15% complete for vehicle_rep2_R1.fastq.gz
+Approx 20% complete for vehicle_rep2_R1.fastq.gz
+Approx 25% complete for vehicle_rep2_R1.fastq.gz
+Approx 30% complete for vehicle_rep2_R1.fastq.gz
+Approx 35% complete for vehicle_rep2_R1.fastq.gz
+Approx 40% complete for vehicle_rep2_R1.fastq.gz
+Approx 45% complete for vehicle_rep2_R1.fastq.gz
+Approx 50% complete for vehicle_rep2_R1.fastq.gz
+Approx 55% complete for vehicle_rep2_R1.fastq.gz
+Approx 60% complete for vehicle_rep2_R1.fastq.gz
+Approx 65% complete for vehicle_rep2_R1.fastq.gz
+Approx 70% complete for vehicle_rep2_R1.fastq.gz
+Approx 75% complete for vehicle_rep2_R1.fastq.gz
+Approx 80% complete for vehicle_rep2_R1.fastq.gz
+Approx 85% complete for vehicle_rep2_R1.fastq.gz
+Approx 90% complete for vehicle_rep2_R1.fastq.gz
+Approx 95% complete for vehicle_rep2_R1.fastq.gz
+Analysis complete for vehicle_rep2_R1.fastq.gz
+Started analysis of vehicle_rep2_R2.fastq.gz
+Approx 5% complete for vehicle_rep2_R2.fastq.gz
+Approx 10% complete for vehicle_rep2_R2.fastq.gz
+Approx 15% complete for vehicle_rep2_R2.fastq.gz
+Approx 20% complete for vehicle_rep2_R2.fastq.gz
+Approx 25% complete for vehicle_rep2_R2.fastq.gz
+Approx 30% complete for vehicle_rep2_R2.fastq.gz
+Approx 35% complete for vehicle_rep2_R2.fastq.gz
+Approx 40% complete for vehicle_rep2_R2.fastq.gz
+Approx 45% complete for vehicle_rep2_R2.fastq.gz
+Approx 50% complete for vehicle_rep2_R2.fastq.gz
+Approx 55% complete for vehicle_rep2_R2.fastq.gz
+Approx 60% complete for vehicle_rep2_R2.fastq.gz
+Approx 65% complete for vehicle_rep2_R2.fastq.gz
+Approx 70% complete for vehicle_rep2_R2.fastq.gz
+Approx 75% complete for vehicle_rep2_R2.fastq.gz
+Approx 80% complete for vehicle_rep2_R2.fastq.gz
+Approx 85% complete for vehicle_rep2_R2.fastq.gz
+Approx 90% complete for vehicle_rep2_R2.fastq.gz
+Approx 95% complete for vehicle_rep2_R2.fastq.gz
+Analysis complete for vehicle_rep2_R2.fastq.gz
