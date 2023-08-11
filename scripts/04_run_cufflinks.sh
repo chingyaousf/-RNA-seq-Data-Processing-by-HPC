@@ -5,7 +5,7 @@
 #SBATCH --time=00:30:00
 #SBATCH --mem=10000
 #SBATCH --nodes=1
-#SBATCH --mail-user=
+#SBATCH --mail-user=your_email
 #SBATCH --job-name=run_cufflinks
 #SBATCH --output=run_cufflinks.out
 
