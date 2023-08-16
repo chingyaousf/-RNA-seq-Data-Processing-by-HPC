@@ -60,7 +60,7 @@ Command:
 
 `featureCounts -T num_threads -a annotation.gtf -o gene_counts.txt bam_file(s)`
 
-## **Summary:**
+## Summary:
 
 In this immersive exploration, we navigate the intricate landscape of RNA-seq analysis, unraveling the molecular intricacies that underlie gene expression patterns. Through careful data processing and interpretation, we unlock the potential to uncover transformative insights within genomic data.
 
