@@ -6,7 +6,7 @@
 
 **Quantification, Normalization of "transcript-level"** **- Cufflinks and Cuffnorm**
 
-**quantifying "gene-level expression" - FeatureCounts**
+**quantifying "Gene-level Expression" - FeatureCounts**
 
 ## Project Overview:
 
@@ -46,7 +46,7 @@ Command:
 
 -   **Step 5: Normalize Transcript Abundances with Cuffnorm**
 
-Normalizing the "transcript-level" data across samples to make them suitable for meaningful comparisons.
+Normalizing the **"transcript-level"** data across samples to make them suitable for meaningful comparisons.
 
 Command:
 
@@ -54,7 +54,7 @@ Command:
 
 -   **Step 6: Quantify Gene-level Expression** **with FeatureCounts**
 
-FeatureCounts is a critical tool for quantifying "gene-level expression" from RNA-seq data. It aids in differential expression analysis, functional annotation, and other downstream analyses by providing accurate read counts for genes and other genomic features, enabling researchers to gain insights into the underlying biology of their experimental systems.
+FeatureCounts is a critical tool for quantifying **"gene-level expression"** from RNA-seq data. It aids in differential expression analysis, functional annotation, and other downstream analyses by providing accurate read counts for genes and other genomic features, enabling researchers to gain insights into the underlying biology of their experimental systems.
 
 Command:
 
