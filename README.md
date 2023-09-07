@@ -4,9 +4,9 @@
 
 **Read Mapping - HISAT**
 
-**Quantification, Normalization of gene expression data - Cufflinks and Cuffnorm**
+**Quantification, Normalization of "transcript-level"** **- Cufflinks and Cuffnorm**
 
-**quantifying gene expression levels - FeatureCounts**
+**quantifying "gene-level expression" - FeatureCounts**
 
 ## Project Overview:
 
@@ -46,15 +46,15 @@ Command:
 
 -   **Step 5: Normalize Transcript Abundances with Cuffnorm**
 
-Normalizing the gene expression data across samples to make them suitable for meaningful comparisons.
+Normalizing the "transcript-level" data across samples to make them suitable for meaningful comparisons.
 
 Command:
 
 `cuffnorm -o output_directory --library-norm-method quartile normalized_data_table.txt`
 
--   **Step 6: Quantify Gene Expression with FeatureCounts**
+-   **Step 6: Quantify Gene-level Expression** **with FeatureCounts**
 
-FeatureCounts is a critical tool for quantifying gene expression levels from RNA-seq data. It aids in differential expression analysis, functional annotation, and other downstream analyses by providing accurate read counts for genes and other genomic features, enabling researchers to gain insights into the underlying biology of their experimental systems.
+FeatureCounts is a critical tool for quantifying "gene-level expression" from RNA-seq data. It aids in differential expression analysis, functional annotation, and other downstream analyses by providing accurate read counts for genes and other genomic features, enabling researchers to gain insights into the underlying biology of their experimental systems.
 
 Command:
 
