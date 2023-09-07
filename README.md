@@ -10,7 +10,7 @@
 
 ## Project Overview:
 
-In the realm of genomics research, RNA-seq has emerged as a transformative technology, empowering us to explore **gene expression** intricacies with unprecedented depth. This project demonstrates essential skills for tackling challenges and seizing opportunities in RNA-seq analysis. Through curated hands-on experiences, we delve into theory and practice, utilizing an adapted dataset from **Shaw et al. (2015)** to immerse ourselves in the dynamic realm of RNA-seq analysis. The dataset's "treatment" and "control" samples hold keys to unravel the effects of specific drug treatments, guiding us through RNA-seq intricacies and showcasing its power in decoding molecular responses.
+In the realm of genomics research, RNA-seq has emerged as a transformative technology, empowering us to explore "**Gene Expression"** intricacies with unprecedented depth. This project demonstrates essential skills for tackling challenges and seizing opportunities in RNA-seq analysis. Through curated hands-on experiences, we delve into theory and practice, utilizing an adapted dataset from **Shaw et al. (2015)** to immerse ourselves in the dynamic realm of RNA-seq analysis. The dataset's "treatment" and "control" samples hold keys to unravel the effects of specific drug treatments, guiding us through RNA-seq intricacies and showcasing its power in decoding molecular responses.
 
 -   **Step 1: Check FASTQ Quality Control**
 
