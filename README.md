@@ -38,7 +38,7 @@ Command:
 
 -   **Step 4: Conduct Transcript Assembly with Cufflinks**
 
-    Cufflinks is responsible for transcript assembly and quantification
+    Cufflinks is responsible for transcript assembly and quantification.
 
 Command:
 
@@ -46,7 +46,7 @@ Command:
 
 -   **Step 5: Normalize Transcript Abundances with Cuffnorm**
 
-Normalizing the gene expression data across samples to make them suitable for meaningful comparisons
+Normalizing the gene expression data across samples to make them suitable for meaningful comparisons.
 
 Command:
 
