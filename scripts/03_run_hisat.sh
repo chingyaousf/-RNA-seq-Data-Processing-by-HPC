@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --ntasks=3
+#SBATCH --ntasks=1
 #SBATCH --chdir=../Work
 #SBATCH --mail-type=ALL
 #SBATCH --time=00:30:00
@@ -15,7 +15,7 @@ module load apps/samtools/1.3.1
 
 ##Variables shared between samples
 REF_GENOME=PlasmoDB-41_Pfalciparum3D7_Genome
-NUMBER_OF_PROCESSORS=3
+NUMBER_OF_PROCESSORS=1
 RNA_STRANDNESS=RF
 
 ##Sample specific stuff
